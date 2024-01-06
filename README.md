@@ -1,4 +1,4 @@
-![Banner Placeholder](Static/bandwidth_banner.jpg)
+![Banner Placeholder](Static/bandwidth_monitor_banner.jpg)
 <!-- banner -->
 
 A simple yet powerful Python script for macOS users to monitor one's bandwidth usage effectively.
