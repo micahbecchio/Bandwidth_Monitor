@@ -3,7 +3,6 @@
 
 A simple yet powerful Python script for macOS users to monitor one's bandwidth usage effectively.
 
-<!-- ![GIF Placeholder](Static/preview.gif)   -->
 <!-- GIF. -->
 <p align="center">
   <img src="Static/preview.gif" alt="animated" />
